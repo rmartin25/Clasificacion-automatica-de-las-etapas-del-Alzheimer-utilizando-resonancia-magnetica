@@ -2,6 +2,8 @@ Repositario donde se almacenan todos los códigos realizados durante la realizac
 
 Se han creado cuatro modelos clasificatorios a partir de los modelos ResNet 18, ResNet 34, ResNet 50 y AlexNet. 
 
+Se ha creado un método Grad - CAM usando ResNet50.
+
 Se ha utilizado la libreria Fast.ai. 
 
 Se ha utilizado un dataset de Kaggle: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset 
