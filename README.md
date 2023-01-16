@@ -1,4 +1,4 @@
-Repositario donde se almacenan todos los códigos realizados durante la realización del Trabajo de Final de Grado "Diagnóstico y clasificación del grado de Alzheimer a partir de imágenes de resonancias magnéticas (MRI)".
+Repositario donde se almacenan todos los códigos realizados durante la realización del Trabajo de Final de Grado "Clasificación automática de las etapas del Alzheimer utilizando resonancia magnética.".
 
 Se han creado cuatro modelos clasificatorios a partir de los modelos ResNet 18, ResNet 34, ResNet 50 y AlexNet. 
 
